@@ -9,5 +9,5 @@ require './lib/vehicle.rb'
 require './lib/vehicle_factory.rb'
 
 RSpec.configure do |config|
-    config.formatter = :documentation
+  config.formatter = :documentation
 end
